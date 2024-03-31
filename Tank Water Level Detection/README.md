@@ -4,8 +4,8 @@ This project aims to create a tank water level detection system using Home Assis
 
 ## Overview
 
--   **Home Assistant**: Home Assistant is used as the central hub for managing and controlling smart devices. It provides a user-friendly interface for configuration and integration.
+   **Home Assistant**: Home Assistant is used as the central hub for managing and controlling smart devices. It provides a user-friendly interface for configuration and integration.
     
--   **Node-RED**: Node-RED is a flow-based development tool for visual programming. It allows for easy integration and automation by connecting various devices and services.
+   **Node-RED**: Node-RED is a flow-based development tool for visual programming. It allows for easy integration and automation by connecting various devices and services.
     
--   **MQTT**: MQTT (Message Queuing Telemetry Transport) is a lightweight messaging protocol ideal for IoT applications. It facilitates communication between devices and services in a publish-subscribe model.
+   **MQTT**: MQTT (Message Queuing Telemetry Transport) is a lightweight messaging protocol ideal for IoT applications. It facilitates communication between devices and services in a publish-subscribe model.
