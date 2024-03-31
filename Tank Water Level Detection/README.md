@@ -8,4 +8,4 @@ This project aims to create a tank water level detection system using Home Assis
     
 -   **Node-RED**: Node-RED is a flow-based development tool for visual programming. It allows for easy integration and automation by connecting various devices and services.
     
--   **MQTT**: MQTT (Message Queuing Telemetry Transport) is a lightweight messaging protocol ideal for IoT applications. It facilitates communication between devices and services in a publish-subscribe model.>
+-   **MQTT**: MQTT (Message Queuing Telemetry Transport) is a lightweight messaging protocol ideal for IoT applications. It facilitates communication between devices and services in a publish-subscribe model.
