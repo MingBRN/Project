@@ -27,5 +27,9 @@ In this project, we utilize Home Assistant (HassOS) along with ESPHome to create
 ![11](https://github.com/MingBRN/Project/assets/165459142/ce3bb241-ed4f-4f95-88e7-2e7f944ad90d)
 ![12](https://github.com/MingBRN/Project/assets/165459142/7730a09b-acbb-4fae-b0a4-e60fec9269f0)
 ![13](https://github.com/MingBRN/Project/assets/165459142/5bbb0efe-0cbf-4136-9a82-0c1202b894b3)
-https://github.com/MingBRN/Project/assets/165459142/389f2c1a-fe73-442b-97a8-d4cb79e26043
+
+
+https://github.com/MingBRN/Project/assets/165459142/b8afa56b-51fe-4e10-bbec-7ef7e2399510
+
+
 
