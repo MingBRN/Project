@@ -19,3 +19,4 @@ This project aims to create a tank water level detection system using Home Assis
 ![4](https://github.com/MingBRN/Project/assets/165459142/9c7328ae-0ab7-4f94-8d1c-d901c77b99e9)
 ![5](https://github.com/MingBRN/Project/assets/165459142/9f78a6ba-1323-4b0f-8a46-2ff891658d7a)
 ![6](https://github.com/MingBRN/Project/assets/165459142/916390cd-ccbf-419e-8064-4d2555e538e1)
+![7](https://github.com/MingBRN/Project/assets/165459142/0a9c6852-9f69-4ace-a1e7-3cfa648c22d9)
